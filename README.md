@@ -61,7 +61,7 @@ end
 
 endmodule
 
-Developed by: RegisterNumber:25017664 NANDHAKUMAR G
+Developed by: RegisterNumber:25017664 NANDHA KUMAR G
 
 
 **RTL LOGIC UP COUNTER**
